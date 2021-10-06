@@ -1,0 +1,23 @@
+Dadas dos variables numéricas A y B, que el usuario debe teclear, 
+se pide realizar un algoritmo que intercambie los valores de ambas variables 
+y muestre cuánto valen al final las dos variables (recuerda la asignación).
+
+Nombre de programa: CambioValores
+Entorno: A, B, TemporalA, TemporalB,
+
+Algoritmo: 
+Escribir "Introduzca un numero"
+Leer A 
+Escribir "Introduzca otro numero"
+Leer B 
+
+calcular TemmporalA = A 
+calcular TemporalB = B 
+
+calcular A = temporalB 
+calcular B = TemporalA
+
+escribir "A es" + A 
+escribir "B es" + B 
+
+Findeprograma
