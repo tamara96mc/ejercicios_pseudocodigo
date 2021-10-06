@@ -1,2 +1,48 @@
+<<<<<<< HEAD
 
 
+=======
+Crear el pseudocódigo de un programa que almacenen 3 números en 3 variables
+A, B y C. El diagrama debe decidir cuál es el mayor y cuál es el menor.
+
+
+Programa: Compara3Numeros
+
+Entorno:
+A,B,C
+ son números enteros
+
+Algoritmo:
+escribir “Introduzca número 1”
+leer A
+
+escribir “Introduzca número 2”
+leer B
+
+escribir “Introduzca número 3”
+leer C 
+
+calcular en mayor
+
+SI A>B Y A>C
+escribir "A es el mayor"
+
+SI B>A Y B>C
+escribir "B es el mayor"
+
+SI C>A Y C>B
+escribir "C es el mayor"
+
+calcula el menor
+
+SI A<B Y A<C
+escribir "A es el menor"
+
+SI B<A Y B<C
+escribir "B es el menor"
+
+SI C<A Y C<B
+escribir "C es el menor"
+
+Finprograma
+>>>>>>> 0aeb8fd848c80a5de6e7f7fd9ea4f17ef6094ffd
