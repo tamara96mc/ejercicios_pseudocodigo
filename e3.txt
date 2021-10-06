@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-
-=======
 Crear el pseudocódigo de un programa que almacenen 3 números en 3 variables
 A, B y C. El diagrama debe decidir cuál es el mayor y cuál es el menor.
 
@@ -45,4 +41,3 @@ SI C<A Y C<B
 escribir "C es el menor"
 
 Finprograma
->>>>>>> 0aeb8fd848c80a5de6e7f7fd9ea4f17ef6094ffd

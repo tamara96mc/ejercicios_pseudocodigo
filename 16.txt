@@ -1,0 +1,34 @@
+Algoritmo que lea tres números distintos y nos diga cuál de ellos es el mayor
+(recuerda usar la estructura condicional Si y los operadores lógicos).
+
+
+
+Programa: CalculaNumeroMayor
+
+Entorno:
+A,B,C
+ son números enteros
+
+Algoritmo:
+escribir “Introduzca número 1”
+leer A
+
+escribir “Introduzca número 2”
+leer B
+
+escribir “Introduzca número 3”
+leer C 
+
+calcular el numero mayor
+
+SI A>B Y A>C
+escribir "A es el mayor"
+
+SI B>A Y B>C
+escribir "B es el mayor"
+
+SI C>A Y C>B
+escribir "C es el mayor"
+
+
+Finprograma
