@@ -1,0 +1,37 @@
+Realizar un algoritmo que lea un número por teclado. En caso de que ese número
+sea 0 o menor que 0, se saldrá del programa imprimiendo antes un mensaje de
+error.
+
+ Si es mayor que 0, se deberá calcular su cuadrado y la raíz cuadrada del
+mismo, visualizando el número que ha tecleado el usuario y su resultado (“Del
+número X, su potencia es X y su raiz X”).
+
+Para calcular la raíz cuadrada se puede
+usar la función interna RAIZ(X) o con una potencia de 0,5.
+
+
+Programa: 
+
+Entorno: 
+Numero1
+RAIZ
+CUADRADO
+
+
+Algoritmo:
+Escribir "Introduzca un numero"
+Leer Numero1
+
+Si numero1<= 0
+Esbribir "Error"
+FindePrograma
+
+Sino 
+Calcular Cuadrado = numero1 * numero1 
+Calcular Raiz = RAIZ(numero1)
+
+Escribir “Del " + Numero1 + " su potencia es " + Cuadrado + " su raiz " + Raiz
+
+Finprograma
+
+
